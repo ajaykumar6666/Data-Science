@@ -1,8 +1,7 @@
 # Data-Science
 
 There are two types of Projects.
-One is relate to Classification.
-Other one is related to Regression.
+which consists of Classification and Regression.
 
 Loan Prediction is Classification based which predicts whether we get a loan or not.
 Price Finder is Regression based which predicts the price of the car.
